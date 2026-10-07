@@ -10,6 +10,16 @@ I have worked on automotive programs involving **Volkswagen/Porsche, Daimler, Ni
 
 ---
 
+## 💼 Open to Work
+
+I am currently open to opportunities in **Germany** for senior roles in embedded test automation, HIL/system verification, test infrastructure, integration & validation, and CI/CD-focused test engineering.
+
+**Best-fit roles:** Senior Embedded Test Automation Engineer · Senior Test Automation Engineer · Verification & Validation Engineer · HIL Test Engineer · Test Infrastructure Engineer · Integration & Test Engineer · Software Integration Engineer
+
+**Languages:** English — Fluent · German — B1 certified
+
+---
+
 ## 🔧 Engineering Focus
 
 - 🚗 Embedded & Automotive Test Automation
